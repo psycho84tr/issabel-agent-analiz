@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+    <menulist>
+        <menuitem menuid="call_center" desc="Call Center" parent="" module="no" link="" order="">
+            <permissions>
+                <group id="1" name="administrator" desc="total access"></group>
+                <group id="2" name="supervisor" desc="Limited access"></group>
+            </permissions>
+        </menuitem>
+        <menuitem menuid="reports_ingoing_call" desc="Reports" parent="call_center" module="no" link="" order="">
+            <permissions>
+                <group id="1" name="administrator" desc="total access"></group>
+                <group id="2" name="supervisor" desc="Limited access"></group>
+            </permissions>
+        </menuitem>
+        <menuitem menuid="agent_analiz" desc="Ajan Performans Analizi" parent="reports_ingoing_call" module="yes" link="" order="10">
+            <permissions>
+                <group id="1" name="administrator" desc="total access"></group>
+                <group id="2" name="supervisor" desc="Limited access"></group>
+            </permissions>
+        </menuitem>
+    </menulist>
+</module> 

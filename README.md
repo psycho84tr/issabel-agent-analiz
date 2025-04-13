@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/94d780e9-b1c6-4712-a9b8-ecfbda12f74c)
 # Issabel Agent Performance Analysis Module
 
 ## Overview
@@ -41,7 +42,7 @@ The Agent Performance Analysis module allows call center supervisors and adminis
 This module is licensed under GPL v2, maintaining compatibility with Issabel's licensing.
 
 ## Author
-Developed by Oktay Mert for Issabel Call Center environments.
+Developed by Omert for Issabel Call Center environments.
 
 ## Support
 For support or customization requests, please create an issue in this repository or contact the author directly.
